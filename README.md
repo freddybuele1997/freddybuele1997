@@ -12,9 +12,9 @@ Building production systems from bare metal to Kubernetes. I design the architec
 
 ### What I Do
 
-Backend engineer and infrastructure specialist with **+7 years of experience** building distributed systems end-to-end. Currently working as **CTO at an ISP** and **Senior Backend Architect** at a fintech/e-commerce company.
+Backend engineer with strong DevOps skills and **+7 years of experience** building distributed systems. Currently working as **Senior Backend Developer** at an ISP and at a fintech/e-commerce company.
 
-I don't just write microservices — I also provision bare-metal servers, configure networking, deploy Kubernetes clusters, set up CI/CD pipelines, and build monitoring dashboards. Full ownership, from hardware to production.
+Beyond writing microservices, I also deploy and operate my own Kubernetes clusters, set up CI/CD pipelines, and build monitoring stacks. Comfortable owning the service from code to production.
 
 ---
 
@@ -137,18 +137,19 @@ Proxmox HA Cluster
 
 | Period | Role | Company | Highlights |
 |---|---|---|---|
-| **2025 - Now** | CTO / Lead Architect | **Interbytes** (ISP) | Built entire infrastructure from scratch. ISP platform serving thousands of clients with HA cluster, K8s, and full monitoring stack |
-| **2025 - Now** | Senior Backend Architect | **PXCH & StoreLabs** | Real-time AI translation, Stripe Connect integration, commission engine, K8s orchestration |
+| **2025 - Now** | Senior Backend Developer | **Interbytes** (ISP) | Deployed and operate a Kubernetes (k3s) cluster from scratch on Proxmox. Backend services for ISP platform (billing, FTTH/GPON, WhatsApp AI bot), starting with MikroTik RouterOS |
+| **2025 - Now** | Senior Backend Developer | **PXCH & StoreLabs** | Real-time AI translation (AWS Transcribe/Translate/Polly + WebSockets), Stripe Connect integration, commission engine, K8s orchestration |
 | **2021 - 2025** | Senior Backend Engineer | **WorkingLive** | Migrated monolith to Kafka-based microservices, video platform integrations (Zoom/Whereby), 50+ services |
 
 ---
 
 ### Currently
 
-- Architecting real-time AI translation pipelines (AWS Transcribe + Translate + Polly over WebSockets)
-- Running an ISP on my own HA infrastructure
+- Building real-time AI translation pipelines (AWS Transcribe + Translate + Polly over WebSockets)
+- Operating Kubernetes (k3s) on Proxmox for an ISP platform
 - Exploring MCP (Model Context Protocol) for AI agent integrations
 - Building idempotent payment orchestration across Stripe, PayPal, Recurly, NMI
+- Learning MikroTik RouterOS for ISP network automation
 
 ---
 
