@@ -143,14 +143,20 @@ Proxmox HA Cluster
 
 ---
 
-### GitHub Stats
+### Currently
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=freddybuele1997&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freddybuele1997&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-</p>
+- Architecting real-time AI translation pipelines (AWS Transcribe + Translate + Polly over WebSockets)
+- Running an ISP on my own HA infrastructure
+- Exploring MCP (Model Context Protocol) for AI agent integrations
+- Building idempotent payment orchestration across Stripe, PayPal, Recurly, NMI
 
 ---
 
-<sub>Most of my work lives in private repositories across organization accounts.</sub>
+### Let's Connect
 
+[![LinkedIn](https://img.shields.io/badge/-Freddy_Buele-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freddy-buele-a54199180/)
+[![Email](https://img.shields.io/badge/-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://www.linkedin.com/in/freddy-buele-a54199180/)
+
+---
+
+<sub>Most of my work lives in private repositories across organization accounts. Let's talk if you want to know more.</sub>
